@@ -1,16 +1,18 @@
-## Hi there 👋
+```shell
+ { “name” : “Christian Soto”,
+   “role” : “Android Developer”,
+   “data” : 
+     {
+      "email" : "christiansoto6@gmail.com",
+      "Linkedin" : "https://www.linkedin.com/in/kristianconk/", 
+      "Resume"   : "https://github.com/newkristian"
+     }
+ }
+```
 
-<!--
-**newkristian/newkristian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Resume
+
+I'm a Software developer since 2012 specialized in android since 2018. Fan of new technologies and professional challenges.
+
