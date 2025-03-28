@@ -6,6 +6,7 @@ object MyData {
 
     fun getExperience(): List<Experience> {
         return listOf(
+            Experience("Mobile Developer", "T7 International Group", "Desde Agosto 2024"),
             Experience("Android Developer Sr", "Ualá", "Diciembre 2021 - Mayo 2024"),
             Experience("Android Developer and Lead", "Banregio", "2018 - 2021"),
             Experience(
