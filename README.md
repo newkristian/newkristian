@@ -73,3 +73,9 @@ I'm a Software developer since 2012 specialized in android since 2018. Fan of ne
 ### Education
 
 [Electronic engineering](https://cedulaprofesional.sep.gob.mx/cedula/indexAvanzada.action?idCedula=9027828&idProfesionista=9193432&token=0312163E28D3F249083D497DF3D2D52AAB300F6E) at [UAM Iztapalapa](http://www.iztapalapa.uam.mx/)
+
+## Sponsor this project
+
+If you want to economically support this project, I accept donations via 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kristianconk)
